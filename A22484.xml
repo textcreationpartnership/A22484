@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of His Maiesties letters patents graunted vnto Thomas Symcocke</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22484</idno>
+            <idno type="STC">STC 8903</idno>
+            <idno type="STC">ESTC S3419</idno>
+            <idno type="EEBO-CITATION">33149724</idno>
+            <idno type="OCLC">ocm 33149724</idno>
+            <idno type="VID">28478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:109)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of His Maiesties letters patents graunted vnto Thomas Symcocke</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet (1 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Symcocke,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1628.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For 31-year license for printing specified items.</note>
+                  <note>"Cum priuilego."</note>
+                  <note>Contains advertisement that inquiries should be directed to Master Hardwicke, with his address.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Symcocke, Thomas.</term>
+               <term>Printing industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Printing industry --  Licenses.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:28478:1"/>
+            <!-- PDF PAGE 18 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> An Abſtract of his Maieſtie Letters Patents, Graunted vnto <hi>Thomas Symcocke.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Kings moſt Excellent Maieſtie hath beene graciouſly pleaſed, by his</hi> Highneſſe Letters Patents, bearing date the 20. day of <hi>Auguſt, 1628.</hi> to Craunt vnto <hi>Thomas Symcocke,</hi> his Aſ<g ref="char:EOLhyphen"/>ſignes and Deputies for the Terme of One and Thirtie yeeres, full and ſole power and Priuiledge, to Imprint, Impreſſe, Role ſtampe, worke, publiſh, vtter, ſell, diſtribute and diſperſe, within his Maieſties Realme of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the Dominion of <hi>Wales, all</hi> Briefes for Collections. and other things whatſoeuer vpon one ſide onely, of one or more ſheete or ſheetes of paper, Skinne or ſkinnes of parchment or any part thereof, as by the ſaid Letters Patent more at large may appeare.</p>
+            <p>His Maieſtic by the ſaid Leters Patents hath alſo prohibited all manner of perſons whomſoeuer (other then the ſaid <hi>Thomas Symcocke</hi> his Executors, Adminiſtrators. Deputſes and Aſſignes) to Imprint, or Impreſſe, Role, ſtampe, or worke, or to vtter, ſell diſtribute, publiſh abroad or diſperſe within <hi>England</hi> and <hi>Wales,</hi> any of the things granted, vpon paine of Forfeiture of allſuch matters and things, as they ſhal Imprint, Role, ſtamp or worke, or ſhall vtter, ſell, diſtribute, publiſh abroad, or diſperſe, contrarie to the ſaid Inhibition: the ſame bee ſeazed vpon and taken by the ſaid <hi>Toom is Symcocke,</hi> his Executors, Adminiſtrators, Deputies, Factors, or Aſſignes, to and for their onely vſe and v<gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> and vpon other paines and penalties, in the ſaid Letters patents expreſſed.</p>
+            <p>And alſo hath further inhibited all manner of perſons during the ſaid Tearme, from bringing or importing into the ſaid Realme of England, or Dominion of <hi>Wales,</hi> or any other his Maieſties Dominions, or any other the parts beyond the Seas any of the things graunted, or to put the ſame or any part thereof ſo Tranſported (as aforeſaid) to ſale, or to bevttered, publiſhed or diſperſed within the ſaid Realme of <hi>England</hi> or Dominion of <hi>Wales,</hi> vpon paine of Forfeiture for euery ſuch offence, to the vſe of his Maieſtie, his Heires and Succeſſors, the ſumme of Fortie ſhillings, ouer and beſides the ſaid things imported or put to ſale (as aforeſaid) contrarie to the ſaid Letters Patents.</p>
+            <p>And alſo his Maieſtie hath farther by the ſaid Letters Patents, charged and commanded all Mayors, Sheriffes, Iuſtices of the Peace, Bay<g ref="char:EOLhyphen"/>liffes, Conſtables, and all other Officers, Miarſters, and Subiects whatſoeuer. and alſo the Maſter, Keepers, Wardens, and Commonaltie of the Art and myſteric of Stationers of the Citie of <hi>London,</hi> that they and euery of them ſhall at all times, during the ſaid Terme (being thereunto re<g ref="char:EOLhyphen"/>quired) be ayding and aſſiſting vnto the ſaid <hi>Thomas Symcocke,</hi> his Executors, Ad niniſtrators, Deputies, Factors, and Aſſignes, in the viewing, ſearching, finding out, ſeazing and taking away of all ſuch matters and things, as ſhall be Imprinted, roled, ſtamped, worought, publiſhed or done, or be vttered, ſold or imported, into any part of the ſaid Dominions (as aforeſaid) contrarie to the meaning of the ſaid Letters Patents.</p>
+            <p>And alſo to be ayding and aſſiſting as aforeſaid, in the taking, ſeaſing, carrying away, Defacing and making vnſeruiceable, of all ſuch Printing-preſſes, Roling preſſes, Stamps, and other Inſtruments or things whatſoener, which ſhall be found to be v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in or about the Imprinting, Roling, ſtamping, working, or doing of any the things granted, contrarie to the true meaning of the ſaid Letters Patents and Decree in the Star chamber concerning Printing, by which Decree all Perſons are prohibited to Print contrarie to any Letters Pattents, granted or to be granted vpon ſuch penalties and forfeitures as in the ſaid Decree is expreſſed.</p>
+            <p>And hath alſo inhibited, that no peaſon doe preſume to Imprint, Worke, Role, Stampe vpon both ſides of the Paper or Parchment, or vtter, ſell or diſpoſe of any of the things granted, which hath not heretofore beene vſually Printed vpon both ſides of Paper or Parchment, or to vſe any other fraude or ſiniſter practiſe whatſoeuer, tending to the hinderance or preindice of the ſaid <hi>Thomas Symcocke,</hi> his Executors, Adminiſtrators or Aſſig<g ref="char:EOLhyphen"/>nes, concerning the things granted, vpon paine of Forfeiture of the ſame.</p>
+            <list>
+               <head>The things belonging to this Graunt, <hi>viz.</hi>
+               </head>
+               <item>All Briefes for Collections.</item>
+               <item>All Publications, concerning a<g ref="char:EOLhyphen"/>ny Letters Patents.</item>
+               <item>Indentures for Apprentiſes, Wa<g ref="char:EOLhyphen"/>ter-workes, Drayning of Lands, and other things.</item>
+               <item>All Bonds and Recognizances for Victualers, Alehouſe-keepers and other.</item>
+               <item>Lycences to Collect or gather by.</item>
+               <item>Lycences for Victuallers.</item>
+               <item>Lycences for ſelling of Wines.</item>
+               <item>Lycences for Marriages, and all other Lycences.</item>
+               <item>All Bonds, Bils and Acquittan<g ref="char:EOLhyphen"/>ces for payments, or Receites of Money.</item>
+               <item>Articles concerning the Viſitati<g ref="char:EOLhyphen"/>tion of Biſhops, Archdeacons, or their Officials.</item>
+               <item>Bils for teaching of Schollers.</item>
+               <item>Bils concerning Phiſitians, Chy<g ref="char:EOLhyphen"/>rurgions, or others.</item>
+               <item>All Bils for Playes, Challenges,</item>
+               <item>Priſes, Sports, or ſhewes whatſoeuer</item>
+               <item>All Epitaphes, Inſcriptions, or o<g ref="char:EOLhyphen"/>ther Copies, either in Proſe or verſe.</item>
+               <item>All Portratures and Pictures whatſoeuer.</item>
+               <item>Ballads.</item>
+               <item>And all other Copies, Chartes, and things whatſoeuer, <hi>viz.</hi>
+               </item>
+               <item>Bils of Lading.</item>
+               <item>Mappes.</item>
+               <item>Parriters Bils.</item>
+               <item>Writs &amp; Warranrs for Sheriffes, and Iuſtices of the Peace.</item>
+               <item>Sickneſſe Bils.</item>
+               <item>Bils for the Court of Conſcience. And all other Chartes, Copies and things, by what Name or Title ſoe<g ref="char:EOLhyphen"/>uer they are called or knowne, to be Imprinted, Roled, Stamped or done vpon the one ſide of Paper or Parch<g ref="char:EOLhyphen"/>ment, or any part thereof, in Secre<g ref="char:EOLhyphen"/>tarie hand, or otherwiſe.</item>
+            </list>
+            <p>And if any ſhall haue occaſion to vſe the premiſſes, let them repaire to the Houſe of Maſter <hi>Hardwicke,</hi> at the Signe of the May<g ref="char:EOLhyphen"/>den Head, next vnto the Green-Dragon Tauerne on the South ſide of S. <hi>Paules,</hi> wher they ſhal be reaſonably dealt with for the ſame.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>AT LONDON, Printed by <hi>Thomas Symcocke</hi> Cum Priuilegio. 1628.</p>
+            <closer>God ſave the King.</closer>
+         </div>
+      </back>
+   </text>
+</TEI>
